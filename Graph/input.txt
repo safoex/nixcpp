@@ -1,0 +1,14 @@
+insert_vertex 1
+insert_vertex 1
+erase_vertex 2
+insert_vertex 2
+insert_vertex 3
+insert_edge 1 2 1
+insert_edge 1 2 1
+insert_edge 1 2 0.5
+get_edge 1 2
+insert_edge 2 1 1
+erase_vertex 1
+insert_vertex 1
+get_edge 2 1
+exit

@@ -1,0 +1,14 @@
+ADD 0.2 
+01abcdeabcdeabcdeabcdeabcdeabcde
+ADD 0.1 02abcdeabcdeabcdeabcdeabcdeabcde
+ADD 0.2 
+03abcdeabcdeabcdeabcdeabcdeabcde
+PROCESS
+PROCESS
+PROCESS
+ADD 0.5 abcdeabcdeabcdeabcdeabcdeabcde33
+ADD 0.5 04abcdeabcdeabcdeabcdeabcdeabcde
+ADD 0.4 05abcdeabcdeabcdeabcdeabcdeabcde
+PROCESS
+FINISH 3
+FINISH 2
