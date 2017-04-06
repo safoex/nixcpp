@@ -1,1 +1,33 @@
-set azaza 2
+ begin
+
+move aA x while aA
+
+begin
+
+move b y
+
+while b begin inc ans dec b end
+
+dec aA
+
+end
+
+print ans
+
+set a 42
+
+if t print a
+
+end
+
+2
+
+3
+
+x 2
+
+y 2 t 1 3
+
+x 6
+
+y 7 ans 7500 
